@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.myform {
+  margin: auto;
+  width: min-content;
+  text-align: center;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.ip {
+  margin-left: 10px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}

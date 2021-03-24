@@ -1,7 +1,7 @@
 require("dotenv").config();
 const express = require("express");
 const mongodb = require("mongodb");
-const bcypt = require("bcrypt");
+const bcrypt = require("bcrypt");
 const mongoClient = mongodb.MongoClient;
 const objectId = mongodb.ObjectID;
 const app=express();
